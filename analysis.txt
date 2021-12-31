@@ -1,4 +1,4 @@
-Analysis steps
+Analysis steps - these need to be improved...
 
 1. Data cleaning
 2. initial data exploration
