@@ -1,6 +1,6 @@
-Analysis steps
+Analysis steps - I think these are correct
 
 1. Data cleaning
 2. initial data exploration
-3. PCA
+3. PCA - I need to look at a way of doing this faster on larger datasets
 4. data visualisation
